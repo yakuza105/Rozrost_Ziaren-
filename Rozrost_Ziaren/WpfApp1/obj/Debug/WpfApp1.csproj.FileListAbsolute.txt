@@ -1,0 +1,57 @@
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\mbaszak\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\App.g.cs
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\App.g.cs
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\MBaszak\Documents\Visual Studio 2017\Projects\WpfApp1 - Copy - BackUp\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\App.g.cs
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\yakuza\Downloads\WpfApp1-20180611T122229Z-001\WpfApp1\obj\Debug\WpfApp1.pdb
